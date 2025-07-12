@@ -1,6 +1,6 @@
 # 🚀 Aryan Gupta: AI & Data Science Innovator 👋
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRreDd1cXZza2U5Z2d3Y3IzZjQ5NjRsaWpmcHhnd3UxZ2IzMnpuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTtoU4hkyq8W48re2f/giphy.gif" width="500px" height="150px" align="centre">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRreDd1cXZza2U5Z2d3Y3IzZjQ5NjRsaWpmcHhnd3UxZ2IzMnpuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTtoU4hkyq8W48re2f/giphy.gif" width="500px" height="250px" align="centre">
 
 Dive into my world of cutting-edge AI and Data Science solutions!
 
@@ -34,7 +34,7 @@ Dive into my world of cutting-edge AI and Data Science solutions!
 class AryanGupta:
     name = "Aryan Gupta"
     title = "Machine Learning & Software Development Enthusiast"
-    education = "BTech ECE, Punjab Engineering College (2027), 6.5 CGPA"
+    education = "BTech ECE, Punjab Engineering College (2027)"
     mission = "Architecting AI-driven solutions for real-world impact"
     passions = [
         "Pioneering scalable ML models",
