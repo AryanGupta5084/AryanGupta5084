@@ -1,10 +1,10 @@
 # 🚀 Aryan Gupta: AI & Data Science Innovator 👋
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRreDd1cXZza2U5Z2d3Y3IzZjQ5NjRsaWpmcHhnd3UxZ2IzMnpuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTtoU4hkyq8W48re2f/giphy.gif" width="200px" height="100px" align="left">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRreDd1cXZza2U5Z2d3Y3IzZjQ5NjRsaWpmcHhnd3UxZ2IzMnpuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTtoU4hkyq8W48re2f/giphy.gif" width="300px" height="150px" align="left">
 
 Dive into my world of cutting-edge AI and Data Science solutions!
 
-[![LinkedIn](https://img.shields.io/badge/-AryanGupta-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&psig=AOvVaw3zBk8D6OZvTPCUPmLVAjOl&ust=1752396271745000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi88fz2to4DFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/aryan-gupta84) [![Gmail](https://img.shields.io/badge/-aryankasoudhan84@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aryankasoudhan84@gmail.com)](mailto:aryankasoudhan84@gmail.com) [![GitHub](https://img.shields.io/badge/-AryanGupta5084-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/AryanGupta5084)](https://github.com/AryanGupta5084)
+[![LinkedIn](https://img.shields.io/badge/-AryanGupta-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-gupta84)](https://www.linkedin.com/in/aryan-gupta84) [![Gmail](https://img.shields.io/badge/-aryankasoudhan84@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aryankasoudhan84@gmail.com)](mailto:aryankasoudhan84@gmail.com) [![GitHub](https://img.shields.io/badge/-AryanGupta5084-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/AryanGupta5084)](https://github.com/AryanGupta5084)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AryanGupta5084&color=brightgreen&style=for-the-badge" alt="AryanGupta5084" /> </p>
 <div style="text-align: right; font-weight: bold;">Revolutionizing tech with data-driven innovation! 💡</div>
@@ -34,7 +34,7 @@ Dive into my world of cutting-edge AI and Data Science solutions!
 class AryanGupta:
     name = "Aryan Gupta"
     title = "Machine Learning & Software Development Enthusiast"
-    education = "BTech ECE, Punjab Engineering College (2027)"
+    education = "BTech ECE, Punjab Engineering College (2027), 6.5 CGPA"
     mission = "Architecting AI-driven solutions for real-world impact"
     passions = [
         "Pioneering scalable ML models",
