@@ -1,24 +1,27 @@
-🚀 Aryan Gupta: AI & Data Science Innovator 👋
+# 🚀 Aryan Gupta: AI & Data Science Innovator 👋
 
+![](https://media.giphy.com/media/3o7TKSjRrfIPtrrS4w/giphy.gif)Dive into my world of cutting-edge AI and Data Science solutions!
 
-Dive into my world of cutting-edge AI and Data Science solutions!
-  
-  
+![AryanGupta5084](https://komarev.com/ghpvc/?username=AryanGupta5084&color=brightgreen&style=for-the-badge)**Revolutionizing tech with data-driven innovation! 💡**
 
-Revolutionizing tech with data-driven innovation! 💡
+## 🔥 My Superpowers
 
-🔥 My Superpowers
+- **Machine Learning & Data Science**: Building predictive models that transform insights into action.
+- **AI & NLP**: Crafting intelligent systems with Transformers and LangChain.
+- **MLOps & Cloud**: Deploying scalable solutions with AWS and Docker.
+- **Backend Excellence**: Powering applications with Flask and MongoDB.
 
-Machine Learning & Data Science: Building predictive models that transform insights into action.
-AI & NLP: Crafting intelligent systems with Transformers and LangChain.
-MLOps & Cloud: Deploying scalable solutions with AWS and Docker.
-Backend Excellence: Powering applications with Flask and MongoDB.
+## 🛠 Languages
 
-🛠 Languages
-   
-🧰 Tools & Frameworks
-       
-🙋‍♂️ Who Am I?
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "Python")![](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg "C++")![](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg "Java")![](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg "SQL")
+
+## 🧰 Tools & Frameworks
+
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg "Jupyter")![](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg "VS Code")![](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg "Docker")![](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg "Git")![](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg "AWS")![](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg "Flask")![](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg "TensorFlow")![](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg "MongoDB")
+
+## 🙋‍♂️ Who Am I?
+
+```python
 class AryanGupta:
     name = "Aryan Gupta"
     title = "Machine Learning & Software Development Enthusiast"
@@ -38,14 +41,15 @@ class AryanGupta:
         RevolutionizeAIApplications()
         LeadMLOpsInnovation()
         ImpactOpenSourceAI()
+```
 
-🌟 Current Missions
+## 🌟 Current Missions
 
-🔬 Engineering Impactful AI: Developing ML models and chatbots for predictive analytics and intelligent automation (GitHub Projects).
-🌱 Mastering the Craft: Advancing expertise in MLOps, AWS/Docker, and data structures & algorithms for next-level software solutions.
-🏆 Leading with Passion: Driving innovation as a leader in ACM, Dramatics, and Dance Wing at PEC, blending tech and creativity.
+- 🔬 **Engineering Impactful AI**: Developing ML models and chatbots for predictive analytics and intelligent automation (GitHub Projects).
+- 🌱 **Mastering the Craft**: Advancing expertise in MLOps, AWS/Docker, and data structures & algorithms for next-level software solutions.
+- 🏆 **Leading with Passion**: Driving innovation as a leader in **ACM**, **Dramatics**, and **Dance Wing** at PEC, blending tech and creativity.
 
-🔗 Let’s Connect!
+## 🔗 Let’s Connect!
 
-📄 My Resume 
-💡 Ready to collaborate? Fork, contribute, or share ideas via pull requests! Impressed? Drop a ⭐!
+- 📄 My [Resume](https://drive.google.com/file/d/1hSkLdhQgP_fPBIDfjhsVHzBMtH4K0YFb/view?usp=drive_link)
+- 💡 Ready to collaborate? Fork, contribute, or share ideas via pull requests! Impressed? Drop a ⭐!
