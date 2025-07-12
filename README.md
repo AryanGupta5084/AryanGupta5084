@@ -1,8 +1,8 @@
 # 🚀 Aryan Gupta: AI & Data Science Innovator 👋
 
-![](https://media.giphy.com/media/3o7TKSjRrfIPtrrS4w/giphy.gif)Dive into my world of cutting-edge AI and Data Science solutions!
+Dive into my world of cutting-edge AI and Data Science solutions!
 
-![AryanGupta5084](https://komarev.com/ghpvc/?username=AryanGupta5084&color=brightgreen&style=for-the-badge)**Revolutionizing tech with data-driven innovation! 💡**
+**Revolutionizing tech with data-driven innovation! 💡**
 
 ## 🔥 My Superpowers
 
