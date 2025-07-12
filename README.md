@@ -1,6 +1,6 @@
 # 🚀 Aryan Gupta: AI & Data Science Innovator 👋
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRreDd1cXZza2U5Z2d3Y3IzZjQ5NjRsaWpmcHhnd3UxZ2IzMnpuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTtoU4hkyq8W48re2f/giphy.gif" width="300px" height="160px" align="left">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRreDd1cXZza2U5Z2d3Y3IzZjQ5NjRsaWpmcHhnd3UxZ2IzMnpuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTtoU4hkyq8W48re2f/giphy.gif" width="500px" height="150px" align="centre">
 
 Dive into my world of cutting-edge AI and Data Science solutions!
 
